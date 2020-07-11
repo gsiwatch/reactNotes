@@ -11,4 +11,9 @@
     * State
     * Props
     * VirtualDOM
+###### Installing React
+* install node 
+* npx create-react-app <app_name>
+* you can also prefer to install nvm for node version management if on the machine a person need different node versions
+* 
     
